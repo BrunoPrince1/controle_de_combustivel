@@ -74,8 +74,6 @@ lib/
 
 ## Capturas de tela
 
-Adicione as imagens em `docs/screenshots/` e ajuste os nomes abaixo.
-
 | Cadastro do veículo | Lista de abastecimentos | Novo abastecimento | Dashboard |
 | --- | --- | --- | --- |
 | ![Cadastro](docs/screenshots/veiculo.png) | ![Lista](docs/screenshots/lista.png) | ![Abastecimento](docs/screenshots/abastecimento.png) | ![Dashboard](docs/screenshots/dashboard.png) |
